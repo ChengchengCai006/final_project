@@ -1,7 +1,26 @@
-*.DS_Store
-*.ipynb_checkpoints*
-__pycache__/
-
-# Add more files & directories as needed
-Project.ipynb
-Project.ipynb
+## ignore csv file
+quiery_1_data.csv
+quiery_2_data.csv
+quiery_3_data.csv
+quiery_4_data.csv
+quiery_5_data.csv
+quiery_6_data.csv
+quiery_7_data.csv
+quiery_8_data.csv
+quiery_9_data.csv
+quiery_10_data.csv
+quiery_11_data.csv
+quiery_12_data.csv
+quiery_13_data.csv
+quiery_14_data.csv
+quiery_15_data.csv
+quiery_16_data.csv
+quiery_17_data.csv
+quiery_18_data.csv
+quiery_19_data.csv
+quiery_20_data.csv
+quiery_21_data.csv
+quiery_22_data.csv
+quiery_23_data.csv
+quiery_24_data.csv
+quiery_25_data.csv
